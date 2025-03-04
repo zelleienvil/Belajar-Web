@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.category {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #222;
+}
+
+.author {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+ol li a {
+    text-decoration: none;
+    color: blue;
+}
+
+h2 {
+    font-size: 22px;
+    color: #222;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 16px;
+    color: #444;
+    line-height: 1.6;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 180%;
+}
